@@ -1,4 +1,5 @@
-# SWM_COURSE_PROJECT_GROUP2_Problem19
+# Movie Recommendation System Analysis
+This project was a collaborative effort within the curriculum of Arizona State University's course, "Semantic Web Mining," under the guidance of Professor Hasan Davulcu. In this course project, we delved into the analysis of movie recommendation systems, exploring the intricacies of semantic web mining within this context.
 
 Members:
 - Apoorva Verma     -  1219501855
